@@ -13,7 +13,7 @@ public class DriverApp2 {
 		int a=0;			//local variables do not have any initial value, they must be explicitly initialized else it will throw compile time error
 		double b=0.0;		//local
 		String c=null;		//local
-		boolean d=false;      //local
+		boolean d=false;    //local
 		
 		System.out.println(a);  
 		System.out.println(b);  
