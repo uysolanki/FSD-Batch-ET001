@@ -3,11 +3,11 @@ package day8scanner;
 public class StringReverse {
 
 	public static void main(String[] args) {
-		String name="mmmaazkzaammm";
+		String name="madam";
 //		StringBuffer buffer=new StringBuffer(name);   without using predefined function
 //		System.out.println(buffer.reverse());
 		
-//		String revName="";							//without using second string
+//		String revName="";							//without using second string  m ma mad mada madam
 		int loopCounter=0;
 //		for(int i=name.length()-1;i>=0;i--)
 //		{
